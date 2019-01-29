@@ -6,6 +6,9 @@
 @rem ##########################################################################
 
 @rem Set local scope for the variables with windows NT shell
+
+echo hello any
+
 if "%OS%"=="Windows_NT" setlocal
 
 set DIRNAME=%~dp0
